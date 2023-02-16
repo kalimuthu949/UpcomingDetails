@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "upcoming",
+    "libraryId": "cdf1392d-8f5d-4569-850e-90e06f12feb1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Upcoming",
+    "solutionShortDescription": "Upcoming description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
